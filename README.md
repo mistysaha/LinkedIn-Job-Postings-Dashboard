@@ -74,7 +74,7 @@ This project presents a fully interactive Power BI dashboard built on the [arshk
 
 ## 📊 Dashboard Pages (4 pages)
 
-1. **Summary (Overview)** — Total Postings (3K), Total Industries (388), Average Salary ($121.68K), Total Companies (1K); charts for Pay Period, Total Postings by Top Companies, Total Companies by Location, Average Salary by Top Job Title, Total Postings by Pay Period, Total Postings by Work Type
+1. **Summary (Overview)** — Total Postings (3K), Total Industries (388), Average Salary ($121.68K), Total Companies (1K); charts for Total Postings by Top Companies, Total Companies by Location, Average Salary by Top Job Title, Total Postings by Pay Period, Total Postings by Work Type
 2. **Salary Trends** — Average Salary by Industry Name, Average Salary by Pay Period, Max/Min/Average/Median Salary cards, table of Maximum Average Salary by Title \& Industry
 3. **Hiring Patterns** — WorkType by Industry Name, Work Type Percent table (Full-time 88.42%, Part-time 5.67%, Contract 4.94%, Temporary 0.57%, Other 0.24%, Internship 0.17%), Total Postings by Work Type donut, Count of Work Type by Location
 4. **Companies \& Industries** — Total Industries, Total Companies, Top Company Posting Count (44); table of Company/Industry/Total Postings, Total Postings by Company Name, Percentage of Work Type by Industry, Count of Jobs in TOP 5 Industries donut
@@ -92,7 +92,7 @@ Title, Location, Work Type, Company, Industry Name, Pay Period — available acr
 
 ## ✅ Conclusion
 
-This dashboard provides a clear view into current job market trends — helping job seekers, recruiters, or analysts understand salary benchmarks, hiring patterns by work type, and which companies/industries are actively hiring.
+This dashboard provides a clear view into current job market trends, helping job seekers, recruiters, or analysts understand salary benchmarks, hiring patterns by work type, and which companies/industries are actively hiring.
 
 ## 🚀 How to Use
 
