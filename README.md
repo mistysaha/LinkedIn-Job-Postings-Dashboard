@@ -62,7 +62,7 @@ This project presents a fully interactive Power BI dashboard built on the [arshk
 
 **🔁 Data Transformation**
 
-* Joined `postings.csv` with `job\\\_industries.csv` → `industries.csv` on `industry\\\_id`
+* Joined `postings.csv` with `job_industries.csv` → `industries.csv` on `industry_id`
 * Normalized salary fields across Yearly/Monthly/Weekly/Hourly/Biweekly pay periods
 
 **📈 Data Enrichment (Measures)**
