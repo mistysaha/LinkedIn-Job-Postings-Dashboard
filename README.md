@@ -10,7 +10,7 @@
 
 
 
-!\[Summary Overview](images/summary-overview.png)
+![Summary Overview](images/summary-overview.png)
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-!\[Salary Trends](images/salary-trends.png)
+![Salary Trends](images/salary-trends.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-!\[Hiring Patterns](images/hiring-patterns.png)
+![Hiring Patterns](images/hiring-patterns.png)
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-!\[Companies and Industries](images/companies-industries.png)
+![Companies and Industries](images/companies-industries.png)
 
 
 
