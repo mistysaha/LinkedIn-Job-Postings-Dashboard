@@ -10,7 +10,7 @@
 
 
 
-!\[Summary Overview](images/summary(overview).png)
+!\[Summary Overview](images/summary-overview.png)
 
 
 
@@ -107,25 +107,25 @@ job-postings-dashboard.pbix
 
 Data/
 
-\&#x20; postings.csv
+  postings.csv
 
-\&#x20; job\\\_industries.csv
+  job_industries.csv
 
-\&#x20; industries.csv
+  industries.csv
 
-\&#x20; companies.csv
+  companies.csv
 
 
 
 images/
 
-\&#x20; summary(overview).png
+  summary-overview.png
 
-\&#x20; salary-trends.png
+  salary-trends.png
 
-\&#x20; hiring-patterns.png
+  hiring-patterns.png
 
-\&#x20; companies-industries.png
+  companies-industries.png
 
 ```
 
