@@ -21,13 +21,13 @@ Each posting includes dozens of attributes — title, job description, salary, l
 
 Key files used in this project:
 
-postings.csv — job IDs, company names, titles, descriptions, salary details (min/median/max), pay period, location, views, employment type, application counts, and listing/closing timestamps  (openml)
+**postings.csv** — job IDs, company names, titles, descriptions, salary details (min/median/max), pay period, location, views, employment type, application counts, and listing/closing timestamps  (openml)
 
-job_industries.csv + industries.csv — maps each posting to its associated industry
+**job_industries.csv + industries.csv** — maps each posting to its associated industry
 
-(optionally) job_skills.csv + skills.csv — maps each posting to associated skill codes
+**(optionally) job_skills.csv + skills.csv** — maps each posting to associated skill codes
 
-Why this dataset: it's a strong source for analyzing labor market trends, benchmarking salaries, and understanding company hiring practices — which lines up directly with this project's 3 objectives (salary trends, hiring patterns by work type, top companies/industries).
+**Why this dataset:** it's a strong source for analyzing labor market trends, benchmarking salaries, and understanding company hiring practices — which lines up directly with this project's 3 objectives (salary trends, hiring patterns by work type, top companies/industries).
 
 ## 🎯 Objectives
 
