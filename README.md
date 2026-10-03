@@ -2,9 +2,7 @@
 
 
 
-## 📊Dashboard Preview
-
-
+## 📊 Preview
 
 **Summary (Overview)**
 
@@ -12,39 +10,24 @@
 
 ![Summary Overview](images/summary-overview.png)
 
-
-
-
-
-**Salary Trends**
-
-
-
-![Salary Trends](images/salary-trends.png)
-
-
-
-
-
-**Hiring Patterns**
-
-
-
-![Hiring Patterns](images/hiring-patterns.png)
-
-
-
-
-
-**Companies \& Industries**
-
-
-
-![Companies and Industries](images/companies-industries.png)
-
-
-
 This project presents a fully interactive Power BI dashboard built on the [arshkon/linkedin-job-postings](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) dataset from Kaggle. The analysis explores salary trends, hiring patterns, and top companies/industries across \~3,000 job postings.
+
+## 📂 About the Dataset
+
+Source: LinkedIn Job Postings (2023–2024) by arshkon on Kaggle
+
+The dataset contains a nearly comprehensive record of 124,000+ job postings listed on LinkedIn in 2023 and 2024, scraped via a custom LinkedIn job scraper. 
+Each posting includes dozens of attributes — title, job description, salary, location, application URL, and work type (remote, contract, etc.) — along with separate linked files covering benefits, skills, and industries associated with each posting.  (arshkon linkedin job postings +2)
+
+Key files used in this project:
+
+postings.csv — job IDs, company names, titles, descriptions, salary details (min/median/max), pay period, location, views, employment type, application counts, and listing/closing timestamps  (openml)
+
+job_industries.csv + industries.csv — maps each posting to its associated industry
+
+(optionally) job_skills.csv + skills.csv — maps each posting to associated skill codes
+
+Why this dataset: it's a strong source for analyzing labor market trends, benchmarking salaries, and understanding company hiring practices — which lines up directly with this project's 3 objectives (salary trends, hiring patterns by work type, top companies/industries).
 
 ## 🎯 Objectives
 
@@ -75,9 +58,39 @@ This project presents a fully interactive Power BI dashboard built on the [arshk
 ## 📊 Dashboard Pages (4 pages)
 
 1. **Summary (Overview)** — Total Postings (3K), Total Industries (388), Average Salary ($121.68K), Total Companies (1K); charts for Total Postings by Top Companies, Total Companies by Location, Average Salary by Top Job Title, Total Postings by Pay Period, Total Postings by Work Type
+
+**Summary (Overview)**
+
+
+
+![Summary Overview](images/summary-overview.png)
+
 2. **Salary Trends** — Average Salary by Industry Name, Average Salary by Pay Period, Max/Min/Average/Median Salary cards, table of Maximum Average Salary by Title \& Industry
+
+**Salary Trends**
+
+
+
+![Salary Trends](images/salary-trends.png)
+
+
 3. **Hiring Patterns** — WorkType by Industry Name, Work Type Percent table (Full-time 88.42%, Part-time 5.67%, Contract 4.94%, Temporary 0.57%, Other 0.24%, Internship 0.17%), Total Postings by Work Type donut, Count of Work Type by Location
+
+**Hiring Patterns**
+
+
+
+![Hiring Patterns](images/hiring-patterns.png)
+
+
 4. **Companies \& Industries** — Total Industries, Total Companies, Top Company Posting Count (44); table of Company/Industry/Total Postings, Total Postings by Company Name, Percentage of Work Type by Industry, Count of Jobs in TOP 5 Industries donut
+
+**Companies \& Industries**
+
+
+
+![Companies and Industries](images/companies-industries.png)
+
 
 ## 🎛️ Slicers / Filters
 
